@@ -39,6 +39,8 @@
   <property name="maven.settings.offline" value="false"/>
   <property name="maven.settings.interactiveMode" value="true"/>
 
+  <property name="junit.skipped" value="true"/>
+
   <!-- ====================================================================== -->
   <!-- Defining classpaths                                                    -->
   <!-- ====================================================================== -->
